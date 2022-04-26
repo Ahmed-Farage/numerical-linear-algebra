@@ -1,0 +1,10 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#813705af",
+    "titleBar.border": "#813705af",
+    
+},
+
+}
